@@ -1,1 +1,1 @@
-# Kaggle-Pandas
+# Exercises from Kaggle-Pandas
